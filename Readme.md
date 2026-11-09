@@ -26,6 +26,4 @@ Download the Python file from this repository.
 Open the file in PyCharm or another Python environment.
 Run the programme.
 Follow the on-screen menu options.
-Author
-
-Louis Shortland
+Author Louis Shortland
